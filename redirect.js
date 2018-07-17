@@ -1,0 +1,1 @@
+window.location.replace('https://start.duckduckgo.com');

@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "DDG New Tab",
+    "version": "2.0",
+    "description": "replaces the new tab page with DDG search",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    }
+}
